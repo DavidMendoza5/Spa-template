@@ -36,6 +36,7 @@ figure img {
 
 .separator {
   color: var(--primary-color);
+  background-color:  var(--primary-color);
   border: 6px var(--primary-color) solid;
 }
 
